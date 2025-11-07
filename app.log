@@ -1,0 +1,5 @@
+2025-09-24 17:05:52,287 - DEBUG - La fonction a bien ete enregistree
+2025-09-24 17:05:52,288 - INFO - Message d'information
+2025-09-24 17:05:52,288 - WARNING - Attention
+2025-09-24 17:05:52,288 - ERROR - Erreur
+2025-09-24 17:05:52,288 - CRITICAL - Erreur critique !
